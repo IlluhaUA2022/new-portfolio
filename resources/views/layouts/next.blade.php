@@ -1,4 +1,4 @@
-<div class="bg-indigo-200 -my-12">
+<div>
     <div class="py-2">
         <h1 class="font-bold not-italic text-sky-800 px-8 py-16 text-left text-5xl">
             {{ __('next.h1') }}

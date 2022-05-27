@@ -1,7 +1,7 @@
-   <div class="bg-indigo-200">
+   <div>
         <div class="flex justify-center py-16">
                 <div>
-                    <img class="rounded-full w-60 sm:w-60" src="img/photo.jpg" alt="" />
+                    <img class="rounded-full w-60 h-60 object-cover" src="img/photo.jpg" alt="" />
                 </div>
         </div>
         <h1 class="font-bold not-italic text-sky-800 -my-10 text-center text-5xl">
